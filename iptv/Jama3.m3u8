@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Zaouia Principale 1
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50050/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Frontale 01 
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50051/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Frontale 02
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50052/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Grande Cour
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50053/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Patio Fontaine
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50054/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Entrée Patio 01
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50055/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Entrée Patio 02
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50056/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Entrée Principale 01
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50057/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Entrée Principale 02
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50058/cam/realmonitor?channel=1&subtype=0
+
+#EXTINF:-1 tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp", Salon VIP
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50059/cam/realmonitor?channel=1&subtype=0
