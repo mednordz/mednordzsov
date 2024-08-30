@@ -8,9 +8,6 @@ rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50051/cam/realmonitor?channel=
 #EXTINF:-1 tvg-name="Frontale 2" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="F2.dz" group-title="Zaouia",Frontale 2
 rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50052/cam/realmonitor?channel=1&subtype=0
 #KODIPROP:rtsp_transport=tcp
-#EXTINF:-1 tvg-name="Grande Cour" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="GC.dz" group-title="Zaouia",Grande Cour
-rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50053/cam/realmonitor?channel=1&subtype=0
-#KODIPROP:rtsp_transport=tcp
 #EXTINF:-1 tvg-name="Patio Fontaine" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="PF.dz" group-title="Zaouia",Patio Fontaine
 rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50054/cam/realmonitor?channel=1&subtype=0
 #KODIPROP:rtsp_transport=tcp
