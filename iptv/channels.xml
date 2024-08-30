@@ -1,0 +1,42 @@
+<tv source-info-url="https://www.kodi.zaouiaelbelkaidia.com" source-info-name="Zaouia" generator-info-name="Zaouia" generator-info-url="https://www.kodi.zaouiaelbelkaidia.com">
+<channel id="ZP1.dz">
+<display-name>Zaouia Principale 1</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="F1.dz">
+<display-name>Frontale 1</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="F2.dz">
+<display-name>Frontale 2</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="GC.dz">
+<display-name>Grande Cour</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="PF.dz">
+<display-name>Patio Fontaine</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="EP1.dz">
+<display-name>Entrée Patio 01</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="EP2.dz">
+<display-name>Entrée Patio 02</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="EPr1.dz">
+<display-name>Entrée Principale 01</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="EPr2.dz">
+<display-name>Entrée Principale 02</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+<channel id="VIP.dz">
+<display-name>Salon VIP</display-name>
+<icon src="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp"/>
+</channel>
+</tv>
