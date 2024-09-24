@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zaouia Principale 1" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="ZP1.dz" group-title="Zaouia",Zaouia Principale 1
+#EXTINF:-1 tvg-name="Zaouia Large" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="ZL1.dz" group-title="Zaouia",Zaouia Large
 rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50050/cam/realmonitor?channel=1&subtype=0
+#EXTINF:-1 tvg-name="Zaouia Rapprochée" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="ZR1.dz" group-title="Zaouia",Zaouia Rapprochée
+rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50065/cam/realmonitor?channel=1&subtype=0
 #EXTINF:-1 tvg-name="Frontale 1" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="F1.dz" group-title="Zaouia",Frontale 1
 rtsp://iptv:Zaouiabkd@alger.zaouiaelbelkaidia.com:50051/cam/realmonitor?channel=1&subtype=0
 #EXTINF:-1 tvg-name="Frontale 2" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="F2.dz" group-title="Zaouia",Frontale 2
