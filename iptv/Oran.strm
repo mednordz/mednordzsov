@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-name="Dourous Mohamedia",Dourous Mohamedia
+#KODIPROP:rtsp_transport=tcp
+#EXTINF:-1 tvg-name="Dourous Mohamedia" tvg-logo="https://zaouia.tapispersan.net/wp-content/uploads/2024/08/cropped-logo-koba-1.webp" tvg-id="DM.dz" group-title="Zaouia",Dourous Mohamedia
 rtsp://10.201.4.234:8554/main/av
